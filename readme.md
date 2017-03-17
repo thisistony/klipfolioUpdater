@@ -6,7 +6,7 @@ This script will update all Klipfolio data sources in the background regardless 
 
 ## How does it work?  
 
-It utilises the Klipfolio API firstly by downloading a list of all of data sourve IDs, and then loops through and force a refresh data sources with "Adobe Analytics" in the description.
+It utilises the Klipfolio API firstly by downloading a list of all of data source IDs, and then loops through and force a refresh data sources with "Adobe Analytics" in the description.
 
 Please feel free to modify the script if you want it to force refresh every data source.
 
