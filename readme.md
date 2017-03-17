@@ -16,7 +16,7 @@ Please feel free to modify the script if you want it to force refresh every data
 
 **Create a new Lambda function** - Zip it all up containing your Klipfolio API ID and upload.
 
-**Schedule it using CloudWatch** - You can specify it to run at any interval you wish. Just use cron.
+**Schedule it using CloudWatch** - You can specify it to run at any interval you wish. Just use a cron job.
 
 ## Where do I get more information?
 
