@@ -63,6 +63,6 @@ module.exports.run = function () {
           //
         }
       });
-    },1100); //throttling at 1.1 seconds. 
+    },1100); //throttling at 1.1 seconds. Please change this to refect your usage. 
   });
 }
